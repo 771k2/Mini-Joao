@@ -1,0 +1,2 @@
+
+O meu assistente pessoal que eu desenvolvi em .BAT e com ajuda de um compilador transormei em .EXE
